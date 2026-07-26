@@ -1,0 +1,15 @@
+config/deploy.env
+.env
+*.env
+!*.env.example
+*.log
+logs/
+cache/
+.cache/
+.venv/
+venv/
+node_modules/
+target/
+dist/
+build/
+*.zip
